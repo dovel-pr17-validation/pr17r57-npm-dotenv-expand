@@ -1,0 +1,8 @@
+.github/
+.nyc_output/
+examples/
+tests/
+types/
+.editorconfig
+.travis.yml
+Contributing.md
